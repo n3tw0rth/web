@@ -19,3 +19,4 @@ I find myself as a minimalist but look and feel matters. I prefer `base46` but i
 
 yeah, that's what i like, all white and gray. `trouble.nvim` add some colors here and there, but most of it is monochrome. I find it difficult to look at code with rainbow colors. So most probably i might stick to this.
 
+Again, it is not the color scheme i find interesting in NvChad, it is the smooth look with all the components. No matter how hard i try i will be not able to style telescope the same  way it appears on NvChad.
