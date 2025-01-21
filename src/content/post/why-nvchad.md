@@ -3,6 +3,7 @@ title: Why NvChad
 description:  Why i use NvChad
 publishDate: "2025-01-20 21:19"
 tags: ['neovim','nvchad','ui']
+draft: true
 ---
 
 
