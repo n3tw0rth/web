@@ -1,8 +1,8 @@
 ---
 title: Why NvChad
-description:  Why i use NvChad
+description: My dev setup
 publishDate: "2025-01-20 21:19"
-tags: ['neovim','nvchad','ui']
+tags: ['neovim','nvchad']
 draft: true
 ---
 
